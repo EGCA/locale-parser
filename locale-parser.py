@@ -335,30 +335,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# C++
-# class Person:
-#     int name;
-#     int age;
-#
-#     void print_name() {
-#         int x;
-#         std::cout << "Name is " << this->name << std::endl;
-#     }
-
-# x = 3
-
-# python3
-# class Person:
-#     def __init__(self, name: str):
-#         self.title = name
-#
-#     def print_name(self):
-#         print(f"Name is {self.title}")
-
-
-# cameron = Person("Cameron")
-
-# for i, walk in enumerate(os.walk(self.locations_)):
-#     root, dirs, files = walk
-#     pass
